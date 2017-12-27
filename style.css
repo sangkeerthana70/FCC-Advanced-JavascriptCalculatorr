@@ -1,0 +1,40 @@
+.canvas {
+		width:300px;
+		height:450px;
+		margin:50px auto;
+		background-color:pink;
+		border-radius:5%;
+		padding:30px;
+	}
+	
+	.display {
+		background-color:lightgrey;
+		border-radius:5%;
+		width:90%;
+		margin-left:5%;
+		margin-bottom:20px;
+	}
+	.disp {
+		height:40px;
+		width:100%;
+		text-align:center;
+		color:black;
+		font-size:25px;
+	}	
+	.disp2 {
+		height:30px;
+		width:100%;
+		text-align:center;
+		color:grey;
+		font-size:14px;
+	}
+	.btn {
+		margin:10px;
+		background-color:black;
+		color:white;
+		font-weight:bold;
+		border-radius:10%;
+	}
+	
+	
+ 
